@@ -4,7 +4,7 @@
 
 ## Roles Today (Day 1)
 
-| Role     | Name   |
+| Role     | Name   | 
 | -------- | ------ |
 | Captain  | Sanviya |
 | Stark    | Ajal|
