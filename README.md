@@ -38,21 +38,25 @@ https://sites.google.com/view/earth10005-ikea-hq/home
 ## 6. Customer Channels
 
 ### Digital Channels
+
 - IKEA Website
 - IKEA App
 - Google Maps
 
 ### Social Media Channels
+
 - Instagram
 - Facebook
 - YouTube
 
 ### Communication and Support
+
 - WhatsApp
 - Email
 - Customer Support
 
 ### Physical and Promotional Channels
+
 - IKEA Stores
 - Product Packaging
 - Online Advertising
@@ -90,25 +94,27 @@ Email communication appears less prominent compared with IKEA's website, social 
 
 ---
 
-## 9. Team Members
+## 9. Team Members and Roles
 
-- Victor Johnson
-- Aswin Roy
-- Ajal Vinod
-- Sanviya
-- Antony
-- Sajamol
+| Team Member | Role |
+|---|---|
+| Victor Johnson | Banner |
+| Aswin Roy | Strange |
+| Ajal Vinod | Stark |
+| Sanviya | Captain |
+| Antony | Watcher |
+| Sajamol | Romanoff |
 
 ---
 
-## 10. Contributions
+## 10. Roles and Contributions
 
-- **Victor Johnson** — Campaign website and Mission Log
-- **Aswin Roy** — Customer channels
-- **Ajal Vinod** — Customer touchpoints
-- **Sanviya** — Campaign research
-- **Antony** — Customer touchpoint evidence
-- **Sajamol** — Key findings and review
+- **Victor Johnson — Banner:** Built and published the campaign microsite in Google Sites.
+- **Aswin Roy — Strange:** Supported campaign research and content development.
+- **Ajal Vinod — Stark:** Worked on campaign content, audience definition and website presentation.
+- **Sanviya — Captain:** Created and managed the Mission Log repository and coordinated GitHub contributions.
+- **Antony — Watcher:** Supported research, evidence collection and final review.
+- **Sajamol — Romanoff:** Led the identification and research of the 12 customer touchpoints.
 
 ---
 
