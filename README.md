@@ -16,6 +16,7 @@
 ## Integrity Pact
 
 We will only claim evidence we can show. We will verify every AI claim.
+
 I, SANVIYA will only claim evidence I can show.
 
 I, Aswin Roy will only claim evidence I can show.
