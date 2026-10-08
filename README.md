@@ -18,7 +18,7 @@
 We will only claim evidence we can show. We will verify every AI claim.
 I, [Captain's name], will only claim evidence I can show.
 
-I, [Stark's name], will only claim evidence I can show.
+I, Aswin Roy will only claim evidence I can show.
 
 I, VICTOR JOHNSON will only claim evidence I can show.
 
